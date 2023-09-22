@@ -108,21 +108,21 @@
 
 @media(max-width:576px) {
     .card {
-        width: auto;
+        width: 260px;
         flex-wrap: wrap;
     }
 }
 
 @media(max-width:576px) {
     .img {
-        width: auto;
+        width: 214px;
         flex-wrap: wrap;
     }
 }
 
 @media(max-width:576px) {
     .card0 {
-        width: auto;
+        width: 240px;
         flex-wrap: wrap;
     }
 }
