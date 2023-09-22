@@ -1,7 +1,6 @@
 .main {
     margin-left: -58px;
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-between;
     padding: 30px;
     padding-top: 15px;
